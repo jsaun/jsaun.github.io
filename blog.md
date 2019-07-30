@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: Blog
+subtitle: Personal opinions of computer science, software engineering, machine learning, bioinformatics, society and life. 
 use-site-title: true
 ---
 
